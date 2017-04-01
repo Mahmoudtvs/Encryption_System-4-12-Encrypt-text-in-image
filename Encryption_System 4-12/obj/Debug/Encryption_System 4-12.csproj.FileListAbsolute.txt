@@ -1,0 +1,18 @@
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\bin\Debug\Encryption_System 4-12.exe.config
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\bin\Debug\Encryption_System 4-12.exe
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\bin\Debug\Encryption_System 4-12.pdb
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System_4_12.Form1.resources
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System_4_12.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.exe
+c:\users\joker\documents\visual studio 2013\Projects\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.pdb
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\bin\Debug\Encryption_System 4-12.exe.config
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.exe
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.pdb
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\bin\Debug\Encryption_System 4-12.exe
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\bin\Debug\Encryption_System 4-12.pdb
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.csprojResolveAssemblyReference.cache
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System_4_12.Form1.resources
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System_4_12.Properties.Resources.resources
+C:\Users\Joker\Desktop\Encryption_System 4-12\Encryption_System 4-12\obj\Debug\Encryption_System 4-12.csproj.GenerateResource.Cache
